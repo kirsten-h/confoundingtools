@@ -1894,3 +1894,6 @@ margin:0;
 line-height:22.5vh;
 }
 
+img.bottom {
+vertical-align:baseline;
+}
