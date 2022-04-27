@@ -1877,3 +1877,21 @@ table {
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+.footer{
+background-color:#003366;
+margin:0;
+padding:0;
+width:1336px;
+height:768px;
+float:right;
+}
+
+.footerP{
+color:white;
+font-family:FiraSans-Regular, sans-serif;
+font-size:16px;
+margin:0;
+line-height:22.5vh;
+}
+
