@@ -61,12 +61,15 @@ input, select, textarea {
          }
   img {
   width: 100%;
-   height: auto;
-   opacity: 0.6;
+  height: auto;
+  opacity: 0.6;.
+  position: sticky;
+  width: 50%;
+  bottom: 10px;
          }
  .direction {
   position: absolute;
-   bottom: 10px;
+  bottom: 10px;
   left: 19px;
   font-size: 13px;
          }
