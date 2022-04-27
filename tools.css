@@ -56,23 +56,6 @@ input, select, textarea {
   -ms-appearance: none;
   appearance: none; }
 
-.buttomimg {
-  position: relative;
-         }
-  img {
-  width: 100%;
-  height: auto;
-  opacity: 0.6;.
-  position: sticky;
-  width: 50%;
-  bottom: 10px;
-         }
- .direction {
-  position: absolute;
-  bottom: 10px;
-  left: 19px;
-  font-size: 13px;
-         }
 
 /* Basic */
 @-ms-viewport {
@@ -1810,7 +1793,20 @@ table {
     #banner .image {
       max-height: 35vh; } }
 
-
+.buttomimg {
+  position: relative;
+         }
+  img {
+  width: 100%;
+  height: auto;
+  opacity: 0.6;.
+         }
+ .direction {
+  position: absolute;
+  bottom: 10px;
+  left: 19px;
+  font-size: 13px;
+         }
 
 /* Menu */
 #menu ul {
