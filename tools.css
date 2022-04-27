@@ -1879,11 +1879,10 @@ table {
     padding-top: 0; }
 
 .footer{
-background-color:#003366;
 margin:0;
 padding:0;
-width:1336px;
-height:768px;
+width:90vw;
+height:22.5vh;
 float:right;
 }
 
