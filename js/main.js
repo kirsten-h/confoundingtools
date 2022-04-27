@@ -1,9 +1,3 @@
-/*
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 (function($) {
 
 	var	$window = $(window),
@@ -151,7 +145,6 @@
 
 				});
 
-			// Hide panel on body click/tap.
 				$body.on('click touchend', function(event) {
 
 					// >large? Bail.
@@ -163,9 +156,7 @@
 
 				});
 
-		// Scroll lock.
-		// Note: If you do anything to change the height of the sidebar's content, be sure to
-		// trigger 'resize.sidebar-lock' on $window so stuff doesn't get out of sync.
+		
 
 			$window.on('load.sidebar-lock', function() {
 
