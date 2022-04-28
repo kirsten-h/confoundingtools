@@ -90,14 +90,14 @@ body {
 body, input, select, textarea {
   color: #7f888f;
   font-family: Helvetica;
-  font-size: 13pt;
+  font-size: 15pt;
   font-weight: 400;
   line-height: 1.65; }
   @media screen and 
     
     max-width: 1680px) {
     body, input, select, textarea {
-      font-size: 11pt; } }
+      font-size: 15pt; } }
   @media screen and (max-width: 1280px) {
     body, input, select, textarea {
       font-size: 10pt; } }
@@ -558,7 +558,7 @@ a.image {
   position: relative;
          }
  .b1 img {
-  width: 60%;
+  width: 40%;
   height: auto;
   opacity: 0.2;
          }
