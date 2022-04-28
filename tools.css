@@ -340,13 +340,13 @@ a.image {
   transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   background-color: #fff8bd;
   font-size: 0.9em;
-  position: fixed;
-  width: 26em; }
+  position: relative;
+  width: 5em; }
   #sidebar h2 {
     font-size: 1.38889em; }
   #sidebar > .inner {
     padding: 2.22222em 2.22222em 2.44444em 2.22222em ;
-    position: fixed;
+    position: relative;
     width: 26em; }
     #sidebar > .inner > * {
       border-bottom: solid 2px #ef0032;
