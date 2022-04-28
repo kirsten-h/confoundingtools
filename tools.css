@@ -558,14 +558,14 @@ a.image {
   position: relative;
          }
  .b1 img {
-  width: 100%;
+  width: 60%;
   height: auto;
-  opacity: 0.5;
+  opacity: 0.2;
          }
  .direction {
   position: absolute;
   bottom: 10px;
-  left: 19px;
+  left: 10px;
   font-size: 13px;
          }
 
