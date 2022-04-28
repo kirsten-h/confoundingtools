@@ -283,8 +283,6 @@ a.image {
     -ms-transform: scale(1.075);
     transform: scale(1.075); }
 
-
-
 /* Wrapper */
 #wrapper {
   display: -moz-flex;
@@ -349,7 +347,7 @@ a.image {
   transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   background-color: #fff8bd;
   font-size: 0.9em;
-  position: static;
+  position: fixed;
   width: 26em; }
   #sidebar h2 {
     font-size: 1.38889em; }
