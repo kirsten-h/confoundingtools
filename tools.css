@@ -325,13 +325,6 @@ a.image {
         padding: 3em 0 1em 0 ; } }
 
 /* Sidebar */
-.sidebar {
-  --offset: var(--space);
-  /* ... */
-  position: sticky;
-  top: var(--offset);
-}
-
 #sidebar {
   -moz-flex-grow: 0;
   -webkit-flex-grow: 0;
@@ -347,13 +340,13 @@ a.image {
   transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   background-color: #fff8bd;
   font-size: 0.9em;
-  position: relative;
+  position: fixed;
   width: 26em; }
   #sidebar h2 {
     font-size: 1.38889em; }
   #sidebar > .inner {
     padding: 2.22222em 2.22222em 2.44444em 2.22222em ;
-    position: relative;
+    position: fixed;
     width: 26em; }
     #sidebar > .inner > * {
       border-bottom: solid 2px #ef0032;
