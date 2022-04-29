@@ -256,6 +256,11 @@ hr {
 .aligncenter {
     text-align: center; }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
 
 /* Wrapper */
 #wrapper {
